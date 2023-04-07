@@ -1,7 +1,7 @@
 ## Lizzie Nankervis
 ## Homework 3
 ## STA308 A
-
+## this is a try
 GuessTheNumber <- function(lower = 0, upper = 10, seed = NULL){
   if(!is.numeric(lower)||!is.numeric(upper)){
     stop("Lower and upper must be integers.")
